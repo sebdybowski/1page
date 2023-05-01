@@ -1,0 +1,26 @@
+{
+  "name": "1pager",
+  "version": "0.1.0",
+  "description": "Minimal css framework for one-page websites.",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebdybowski/1pager.git"
+  },
+  "keywords": [
+    "css",
+    "minimal",
+    "framework",
+    "one-page",
+    "1pager"
+  ],
+  "author": "Seb Dybowski <dybowski.seb@gmail.com> (https://dybowski.pro)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sebdybowski/1pager/issues"
+  },
+  "homepage": "https://github.com/sebdybowski/1pager#readme"
+}
